@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arifulislam991
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Web design 
-- 💞️ I’m looking to collaborate on opne source project
+- 💞️ I’m looking to collaborate on opne source project 
 - 📫 How to reach me arifulislam99101@gmail.com
 
 <!---
