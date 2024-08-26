@@ -1,41 +1,88 @@
-<h1 align="center">Hi, I'm Ariful Islam :wave:</h1>
+<!--<div align="center">
+  <img width="100%" src="assets/Black Gradient Minimalistic Future Technology YouTube Banner.gif" alt="cover" />
+</div>
+
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=arifulislam991&color=0E9C47&style=for-the-badge">
+
+
+## :eyes: Current overview
+
+
+### 🔭 I’m working - I don't work in any company, I am busy building my skills. 
+### 🌱 I’m exploring - Advanced React JS and JavaScript. 
+### 👯 I’m looking - For Fresher frontend developer job. 
+### 🤔 I’m trying - To solve code errors and explore new technologies. 
+### ⚡ Fun fact - I like to learn new things from anyone.
+
+<br>
+
+### -  Current Stats & Language Used...
+
+ <div align="center">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifulislam991&theme=dracula" alt="shaf.iqulislamsagor" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifulislam991&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arifulislam991" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulislam991&show_icons=true&locale=en&theme=dracula" alt="arifulislam991" /></p>
+</div> </br>
+
+
+
+
+### - Currently Learn...
+
+
+<a name="learning-now"></a>
+
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=3178C6" alt="react logo" title="react" height="25" />
+&nbsp;<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;<img src="https://img.shields.io/badge/tailwindcss-282C34?logo=Tailwind%20CSS&logoColor=3DDC84" alt="Tailwindcss logo" title="tailwindcss" height="25" />&nbsp;<img src="https://img.shields.io/badge/Node JS-282C34?logo=react&logoColor=61DAFB" alt="Node JS logo" title="Node JS" height="25" />&nbsp;<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />&nbsp;<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=00F200" alt="figma logo" title="figma" height="25" />&nbsp;<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=00F200" alt="firebase logo" title="firebase" height="25" />
+<img src="https://img.shields.io/badge/Mongodb-282C34?logo=mongodb&logoColor=00F200" alt="mongodb logo" title="mongodb" height="25" />&nbsp;<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=C21325" alt="bootstrap logo" title="bootstrap" height="25" />&nbsp;<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=F7DF1E" alt="typescript logo" title="typescript" height="25" />&nbsp;<img src="https://img.shields.io/badge/Next%20JS-282C34?logo=nextdotjs&logoColor=F7DF1E" alt="nextjs logo" title="nextjs" height="25" />&nbsp;<img src="https://img.shields.io/badge/Shadcn%20UI-282C34?logo=shadcn/ui&logoColor=00F200" alt="nextjs logo" title="nextjs" height="25" />&nbsp;<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arifulislam991&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
   <em>
-    I believe in my work and trust in Allah. Success does not take long if you work with focus and patience. Honesty and hard work are the main goals of being human.
-  <br>
+   
   <h4 align="center"><i>"---🥰 I do the ones I like anyway. I will also fulfill my dreams inshallah 🥰---"</i></h4>
   <br>
   <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
+  <h4 align="center"><i>"Last Update : 10 july 2024"</i></h4>
 </p>
 
 
-✨ <b>Which I am learning</b>:
 
-   <br>
-<code><a href="https://react.dev/" target="_blank"><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code> <a href="https://mui.com/material-ui/" target="_blank"> <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="tailwind" height="30"/> </a> </code>
+<div align="center">
+
+  <hr></hr>
+
+**😝🥹কোড দেখলে মাথা ঘুরায়🥹😝**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+</div>
 <br>
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="mailto:arifulislam99101@gmail.com">
-    <img align="left" alt="Ariful Islam| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/princearif6961/">
-    <img align="left" alt="Ariful Islam| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100032853563536">
-    <img align="left" alt="Ariful Islam| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
 
+
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arifulislam991&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
